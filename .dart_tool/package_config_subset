@@ -1,11 +1,7 @@
-payflow
-2.12
-file:///C:/dev/branches/payflow/
-file:///C:/dev/branches/payflow/lib/
 async
 2.12
-file:///C:/tools/flutter/.pub-cache/hosted/pub.dartlang.org/async-2.6.1/
-file:///C:/tools/flutter/.pub-cache/hosted/pub.dartlang.org/async-2.6.1/lib/
+file:///C:/tools/flutter/.pub-cache/hosted/pub.dartlang.org/async-2.7.0/
+file:///C:/tools/flutter/.pub-cache/hosted/pub.dartlang.org/async-2.7.0/lib/
 boolean_selector
 2.12
 file:///C:/tools/flutter/.pub-cache/hosted/pub.dartlang.org/boolean_selector-2.1.0/
@@ -48,8 +44,8 @@ file:///C:/tools/flutter/.pub-cache/hosted/pub.dartlang.org/matcher-0.12.10/
 file:///C:/tools/flutter/.pub-cache/hosted/pub.dartlang.org/matcher-0.12.10/lib/
 meta
 2.12
-file:///C:/tools/flutter/.pub-cache/hosted/pub.dartlang.org/meta-1.3.0/
-file:///C:/tools/flutter/.pub-cache/hosted/pub.dartlang.org/meta-1.3.0/lib/
+file:///C:/tools/flutter/.pub-cache/hosted/pub.dartlang.org/meta-1.4.0/
+file:///C:/tools/flutter/.pub-cache/hosted/pub.dartlang.org/meta-1.4.0/lib/
 path
 2.12
 file:///C:/tools/flutter/.pub-cache/hosted/pub.dartlang.org/path-1.8.0/
@@ -76,8 +72,8 @@ file:///C:/tools/flutter/.pub-cache/hosted/pub.dartlang.org/term_glyph-1.2.0/
 file:///C:/tools/flutter/.pub-cache/hosted/pub.dartlang.org/term_glyph-1.2.0/lib/
 test_api
 2.12
-file:///C:/tools/flutter/.pub-cache/hosted/pub.dartlang.org/test_api-0.3.0/
-file:///C:/tools/flutter/.pub-cache/hosted/pub.dartlang.org/test_api-0.3.0/lib/
+file:///C:/tools/flutter/.pub-cache/hosted/pub.dartlang.org/test_api-0.4.0/
+file:///C:/tools/flutter/.pub-cache/hosted/pub.dartlang.org/test_api-0.4.0/lib/
 typed_data
 2.12
 file:///C:/tools/flutter/.pub-cache/hosted/pub.dartlang.org/typed_data-1.3.0/
@@ -98,4 +94,8 @@ flutter_test
 2.12
 file:///C:/tools/flutter/packages/flutter_test/
 file:///C:/tools/flutter/packages/flutter_test/lib/
+payflow
+2.12
+file:///D:/PROJETOS/flutter/flutter_nlw/
+file:///D:/PROJETOS/flutter/flutter_nlw/lib/
 2
