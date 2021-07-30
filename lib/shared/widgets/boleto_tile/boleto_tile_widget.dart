@@ -20,6 +20,7 @@ class BoletoTileWidget extends StatelessWidget {
           "Vence em ${data.dueDate}",
           style: TextStyles.captionBody,
         ),
+        // adiciona um campo próprio para valores
         trailing: Text.rich(TextSpan(
           text: "R\$ ",
           style: TextStyles.trailingRegular,

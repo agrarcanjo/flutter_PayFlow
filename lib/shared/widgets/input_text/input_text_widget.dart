@@ -37,8 +37,10 @@ class InputTextWidget extends StatelessWidget {
                 labelText: label,
                 labelStyle: TextStyles.input,
                 icon: Row(
+                  //define o valor mínimo para o row
                   mainAxisSize: MainAxisSize.min,
                   children: [
+                    //define um padding em torno do icone
                     Padding(
                       padding: const EdgeInsets.symmetric(horizontal: 18),
                       child: Icon(

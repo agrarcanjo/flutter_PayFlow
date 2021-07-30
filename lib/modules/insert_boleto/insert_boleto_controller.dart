@@ -17,6 +17,7 @@ class InsertBoletoController {
 
   void onChange(
       {String? name, String? dueDate, double? value, String? barcode}) {
+    // boa pratica utilizando o copywith, copia o objeto ao invés de modificar sua instância
     model = model.copyWith(
         name: name, dueDate: dueDate, value: value, barcode: barcode);
   }

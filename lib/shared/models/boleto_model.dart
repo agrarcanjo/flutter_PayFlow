@@ -1,3 +1,4 @@
+// utilizar a extenção dart data class
 import 'dart:convert';
 
 class BoletoModel {
